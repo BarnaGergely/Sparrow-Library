@@ -13,7 +13,7 @@ You can easily connect to a Sparrow IoT server, send data, and receive commands 
 
 ## Goal
 
-To create a reliable and easy-to-use data communication library for the Sparrow IoT Platform as the [Blynk Library] or the [Arduino IoT Cloud Library]. This library manages entirely the WiFi connection and the communication with the server and makes the IoT data logger development much easier.
+To create a reliable and easy-to-use data communication library for the Sparrow IoT Platform as the [Blynk Library](https://github.com/blynkkk/blynk-library) or the [ThingSpeak Library](https://github.com/mathworks/thingspeak-arduino). This library manages entirely the WiFi connection and the communication with the server and makes the IoT data logger development much easier.
 
 ## Usage
 
