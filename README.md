@@ -2,14 +2,12 @@
 
 You can easily connect to a Sparrow IoT server, send data, and receive commands with this library.
 
-<div align="center">
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/></code>
-	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Arduino" title="Arduino"/></code>
-</div>
-
 - Reliable WiFi connecting
 - Memory caching, if the wifi is temporarily disconnected
 - Easy interface for setup, data sending, and receiving
+
+- Technologies: [Arduino (framework)](https://docs.arduino.cc/programming/), [C++](https://cplusplus.com/)
+- Compatible microcontrollers: [ESP32](https://www.espressif.com/en/products/socs/esp32), [ESP8266](https://www.espressif.com/en/products/socs/esp8266)
 
 **⚠️This project is under development, not working right now.⚠️**
 
