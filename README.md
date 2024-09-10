@@ -1,4 +1,4 @@
-# Sparrow - Arduino ESP32 IoT Library
+# Sparrow ESP32 IoT Arduino Library
 
 You can easily connect to a Sparrow IoT server, send data, and receive commands with this library.
 
